@@ -348,6 +348,7 @@ section{
     display: flex;
     align-items: center;
 }
+
 .barfill{
     background-color: white;
     height: 100%;
